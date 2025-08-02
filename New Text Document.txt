@@ -1,0 +1,10 @@
+pm2 start start-vite.js --name vite-dev
+
+pm2 stop vite-dev
+pm2 delete vite-dev
+
+
+uvicorn main:app --reload --port 8000.
+
+
+praise the LORD
