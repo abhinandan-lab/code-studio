@@ -8,3 +8,11 @@ uvicorn main:app --reload --port 8000.
 
 
 praise the LORD
+
+
+vercel token
+6yEHSCay5pT4Je9dRqVJBn44 
+
+vuejs-dev-project
+
+abhinandan-lab/vuejs_dev_starting_project
